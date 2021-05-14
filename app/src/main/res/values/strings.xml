@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Movie Database</string>
+    <string name="title">%s</string>
+    <string name="body">%s</string>
+    <string name="summary">Summary</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="username_rating">%s \nRating: %s/10.0</string>
+    <string name="releasedate_rating">ReleaseDate: %s\nRating: %s</string>
+    <string name="sorry_no_movies_were_found">Sorry, no movies were found.</string>
+    <string name="loading_in_movies">Loading in movies...</string>
+    <string name="no_reviews_have_been_submitted_yet">No reviews have been submitted yet.</string>
+</resources>
